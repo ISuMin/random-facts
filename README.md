@@ -1,0 +1,1 @@
+Simple and beautiful site, created for practice, where you can find random facts to entertain or educate yourself.

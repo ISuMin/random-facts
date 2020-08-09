@@ -1,0 +1,14 @@
+{
+  "name": "random-facts",
+  "version": "0.1.0",
+  "description": "Get some random facts, while you bored.",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ISuMin/random-facts.git"
+  },
+  "author": "Ivan Intyakov",
+  "license": "MIT",
+  "homepage": "https://github.com/ISuMin/random-facts#readme"
+}
